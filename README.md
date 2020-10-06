@@ -1,1 +1,3 @@
-# Rep_001
+# CGPA Calculator using EasyGUI & OOP
+
+This is a cgpa calculator, made with easygui using Python as its coding language. At first, we enter the student’s name and department, followed by the course taken in the first semester, and the gpa earned in each course. The code takes all the courses’ gpa and calculates the cgpa for that semester. Next, it asks for the courses of the next semester, and the gpa for the second semester’s courses. Using this, it calculates the cgpa of the two semesters, and onward. The program stops when we enter “STOP”, and moves on to the next semester’s courses when we enter “CONTINUE” after the first semester’s results are calculated.
